@@ -17,6 +17,7 @@
         <model_table/>
         <on_load>true</on_load>
         <order>100</order>
+        <published_ref/>
         <reverse_if_false>true</reverse_if_false>
         <run_scripts>false</run_scripts>
         <script_false><![CDATA[function onCondition() {
@@ -36,7 +37,7 @@
         <sys_mod_count>1</sys_mod_count>
         <sys_name>other access</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_package display_value="Information Access Security Request" source="bc05fb6a1b8ad95062e50ed2cd4bcb6f">bc05fb6a1b8ad95062e50ed2cd4bcb6f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Information Access Security Request">bc05fb6a1b8ad95062e50ed2cd4bcb6f</sys_scope>
         <sys_update_name>catalog_ui_policy_d662769d1bad199062e50ed2cd4bcbbd</sys_update_name>
@@ -44,6 +45,7 @@
         <sys_updated_on>2022-09-23 14:15:38</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
+        <va_supported>true</va_supported>
         <variable_set/>
         <view/>
     </catalog_ui_policy>

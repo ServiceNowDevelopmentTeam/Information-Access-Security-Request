@@ -17,6 +17,8 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <dynamic_value_dot_walk_path/>
+        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>
@@ -41,6 +43,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>other_access</name>
         <order>350</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -70,7 +73,7 @@
         <sys_id>8922f65d1bad199062e50ed2cd4bcbed</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Other Access – please provide commentary for level of access (Role-level) being requested</sys_name>
-        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_package display_value="Information Access Security Request" source="bc05fb6a1b8ad95062e50ed2cd4bcb6f">bc05fb6a1b8ad95062e50ed2cd4bcb6f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Information Access Security Request">bc05fb6a1b8ad95062e50ed2cd4bcb6f</sys_scope>
         <sys_update_name>item_option_new_8922f65d1bad199062e50ed2cd4bcbed</sys_update_name>
